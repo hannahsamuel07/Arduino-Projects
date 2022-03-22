@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/90801601/159147774-85a38107-7580-410f-
  ![image](https://user-images.githubusercontent.com/90801601/159381764-4742e227-558e-4c4b-bba6-3c6c2b878554.png)
 
  
- ### Switch State
+ ### Button State
 https://user-images.githubusercontent.com/90801601/159381697-64d15ff0-cefb-4e35-be41-afcc4bbe1eec.mp4
 
 
